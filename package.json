@@ -1,0 +1,9 @@
+{
+  "name": "resolveSourceMaps",
+  "version": "1.0.0",
+  "lotus": {
+    "implicitDependencies": [
+      "path"
+    ]
+  }
+}
